@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vishwas\\sq_assignment2\\sq_assignment2.csproj": {}
+    "c:\\Users\\Vishwas\\sq_assignment2\\sq_assignment2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vishwas\\sq_assignment2\\sq_assignment2.csproj": {
+    "c:\\Users\\Vishwas\\sq_assignment2\\sq_assignment2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vishwas\\sq_assignment2\\sq_assignment2.csproj",
+        "projectUniqueName": "c:\\Users\\Vishwas\\sq_assignment2\\sq_assignment2.csproj",
         "projectName": "sq_assignment2",
-        "projectPath": "C:\\Users\\Vishwas\\sq_assignment2\\sq_assignment2.csproj",
+        "projectPath": "c:\\Users\\Vishwas\\sq_assignment2\\sq_assignment2.csproj",
         "packagesPath": "C:\\Users\\Vishwas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vishwas\\sq_assignment2\\obj\\",
+        "outputPath": "c:\\Users\\Vishwas\\sq_assignment2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vishwas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.10.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
