@@ -707,19 +707,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Vishwas\\.nuget\\packages\\": {}
+    "C:\\Users\\Ritu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vishwas\\sq_assignment2\\sq_assignment2.csproj",
+      "projectUniqueName": "c:\\Users\\Ritu\\soft_quality_assignment2\\sq_assignment2.csproj",
       "projectName": "sq_assignment2",
-      "projectPath": "C:\\Users\\Vishwas\\sq_assignment2\\sq_assignment2.csproj",
-      "packagesPath": "C:\\Users\\Vishwas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vishwas\\sq_assignment2\\obj\\",
+      "projectPath": "c:\\Users\\Ritu\\soft_quality_assignment2\\sq_assignment2.csproj",
+      "packagesPath": "C:\\Users\\Ritu\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Ritu\\soft_quality_assignment2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Vishwas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ritu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
